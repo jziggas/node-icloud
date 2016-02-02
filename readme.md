@@ -6,7 +6,7 @@
 First set up some environment variables.
 
 ```
-> export APPLID="MYAPPLEID"
+> export APPLEID="MYAPPLEID"
 > export APPLEPASSWORD="MYAPPLEPASSWORD"
 ```
 
